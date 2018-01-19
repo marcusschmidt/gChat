@@ -1,0 +1,16 @@
+{
+  "name": "gchat",
+  "version": "0.0.1",
+  "description": "electrapped gChat",
+  "main": "gChat.js",
+  "dependencies": {
+    "nativefier": "^7.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node gChat.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
